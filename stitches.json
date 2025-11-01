@@ -1,0 +1,20 @@
+[
+  {
+    "id": "longstitch",
+    "name": "Longstitch",
+    "video": "https://www.youtube.com/watch?v=YQKmqN4ideU&list=PLa_bWRbOL2aRbGEEUoHfITNmTj7cOIHVH&index=1",
+    "category": "Basic"
+  },
+  {
+    "id": "tent_stitch",
+    "name": "Tent Stitch",
+    "video": "https://www.youtube.com/watch?v=ymD6LNXnN6o&list=PLa_bWRbOL2aRbGEEUoHfITNmTj7cOIHVH&index=2",
+    "category": "Basic"
+  },
+  {
+    "id": "woven_pattern",
+    "name": "Woven Pattern Stitch",
+    "video": "https://www.youtube.com/watch?v=_uRe3dc67SU&list=PLa_bWRbOL2aRbGEEUoHfITNmTj7cOIHVH&index=5",
+    "category": "Pattern"
+  }
+]
