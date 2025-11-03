@@ -3,7 +3,7 @@
     "id": "longstitch",
     "name": "Longstitch",
     "video": "https://www.youtube.com/watch?v=YQKmqN4ideU&list=PLa_bWRbOL2aRbGEEUoHfITNmTj7cOIHVH&index=1",
-    "category": "Basic",
+    "category": "Diagonal",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Longstitch_58404415-42ba-4d71-99f4-f7f5f4f5cf42_480x480.png"
   },
   {
@@ -24,7 +24,7 @@
     "id": "diagonal_scotch",
     "name": "Diagonal Scotch",
     "video": "https://www.youtube.com/watch?v=J7VfWg0aNRY&list=PLa_bWRbOL2aRbGEEUoHfITNmTj7cOIHVH&index=6",
-    "category": "Pattern",
+    "category": "Diagonal",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/needlepointbooklet_stitches_scotch_2_480x480.jpg"
   },
   {
@@ -42,25 +42,25 @@
     "imageUrl": "https://icon-library.com/images/missing-image-icon/missing-image-icon-4.jpg"
   },
   {
-    "id": "sample",
-    "name": "Sample Name",
-    "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
-    "category": "Sample",
-    "imageUrl": "https://icon-library.com/images/missing-image-icon/missing-image-icon-4.jpg"
+    "id": "brighton_stitch",
+    "name": "Brighton Stitch",
+    "video": "https://www.unwind.studio/blogs/needlepoint-stitches/brighton-stitch",
+    "category": "Parallel",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Brighton_480x480.jpg"
   },
   {
-    "id": "sample",
-    "name": "Sample Name",
-    "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
-    "category": "Sample",
-    "imageUrl": "https://icon-library.com/images/missing-image-icon/missing-image-icon-4.jpg"
+    "id": "wicker_stitch",
+    "name": "Wicker Stitch",
+    "video": "https://www.youtube.com/watch?v=oFudayRrigw",
+    "category": "Knitting",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Wicker_stitch_480x480.png"
   },
   {
-    "id": "sample",
-    "name": "Sample Name",
-    "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
-    "category": "Sample",
-    "imageUrl": "https://icon-library.com/images/missing-image-icon/missing-image-icon-4.jpg"
+    "id": "leaf_stitch",
+    "name": "Leaf Stitch",
+    "video": "https://www.youtube.com/watch?v=LPavojIbgaU",
+    "category": "Pattern",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Leaf_480x480.jpg"
   },
   {
     "id": "sample",
