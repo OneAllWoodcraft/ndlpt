@@ -77,10 +77,17 @@
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Mosaic_Checker_1.jpg"
   },
   {
-    "id": "sample",
-    "name": "Sample Name",
-    "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
-    "category": "Sample",
-    "imageUrl": "https://icon-library.com/images/missing-image-icon/missing-image-icon-4.jpg"
+    "id": "chequer_stitch",
+    "name": "Chequer Stitch",
+    "video": "https://www.unwind.studio/blogs/needlepoint-stitches/chequer-stitch",
+    "category": "Pattern",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Chequer_480x480.jpg"
+  },
+  {
+    "id": "fern_stitch",
+    "name": "Fern Stitch",
+    "video": "https://www.unwind.studio/blogs/needlepoint-stitches/fern-stitch",
+    "category": "Crossed",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Fern_749dd0cc-9d5a-40a2-b3b6-486e76f3f142_480x480.jpg"
   }
 ]
