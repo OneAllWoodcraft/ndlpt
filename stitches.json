@@ -2,28 +2,28 @@
   {
     "id": "longstitch",
     "name": "Longstitch",
-    "video": "https://www.youtube.com/watch?v=YQKmqN4ideU&list=PLa_bWRbOL2aRbGEEUoHfITNmTj7cOIHVH&index=1",
+    "video": "https://www.youtube.com/watch?v=YQKmqN4ideU",
     "category": "Diagonal",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Longstitch_58404415-42ba-4d71-99f4-f7f5f4f5cf42_480x480.png"
   },
   {
     "id": "tent_stitch",
     "name": "Tent Stitch",
-    "video": "https://www.youtube.com/watch?v=ymD6LNXnN6o&list=PLa_bWRbOL2aRbGEEUoHfITNmTj7cOIHVH&index=2",
+    "video": "https://www.youtube.com/watch?v=ymD6LNXnN6o",
     "category": "Basic",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Basketwave_stitch_480x480.png"
   },
   {
     "id": "woven_pattern",
     "name": "Woven Pattern",
-    "video": "https://www.youtube.com/watch?v=_uRe3dc67SU&list=PLa_bWRbOL2aRbGEEUoHfITNmTj7cOIHVH&index=5",
+    "video": "https://www.youtube.com/watch?v=_uRe3dc67SU",
     "category": "Pattern",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/needlepointbooklet_stitches_woven_pattern_480x480.jpg"
   },
   {
     "id": "diagonal_scotch",
     "name": "Diagonal Scotch",
-    "video": "https://www.youtube.com/watch?v=J7VfWg0aNRY&list=PLa_bWRbOL2aRbGEEUoHfITNmTj7cOIHVH&index=6",
+    "video": "https://www.youtube.com/watch?v=J7VfWg0aNRY",
     "category": "Diagonal",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/needlepointbooklet_stitches_scotch_2_480x480.jpg"
   },
@@ -37,9 +37,9 @@
   {
     "id": "corduroy_stitch",
     "name": "Corduroy Stitch",
-    "video": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Corduroy_2.jpg",
+    "video": "https://www.youtube.com/watch?v=eGY8vmWoLns",
     "category": "Diagonal",
-    "imageUrl": "https://icon-library.com/images/missing-image-icon/missing-image-icon-4.jpg"
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Corduroy_2.jpg"
   },
   {
     "id": "brighton_stitch",
@@ -61,6 +61,20 @@
     "video": "https://www.youtube.com/watch?v=LPavojIbgaU",
     "category": "Pattern",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Leaf_480x480.jpg"
+  },
+  {
+    "id": "criss_cross_hungarian,
+    "name": "Criss Cross Hungarian",
+    "video": "https://www.youtube.com/watch?v=60RqlL6q9H0",
+    "category": "Crossed",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/needlepointbooklet_stitches_hungarian_criss_cross_480x480.jpg"
+  },
+  {
+    "id": "mosaic_checker",
+    "name": "Mosaic Checker",
+    "video": "https://www.youtube.com/watch?v=4iIshEdrDBM",
+    "category": "Pattern",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Mosaic_Checker_1.jpg"
   },
   {
     "id": "sample",
