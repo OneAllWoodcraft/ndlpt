@@ -28,6 +28,41 @@
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/needlepointbooklet_stitches_scotch_2_480x480.jpg"
   },
   {
+    "id": "tressed_stitch",
+    "name": "Tressed Stitch",
+    "video": "https://www.youtube.com/watch?v=e9YQi6thGFs",
+    "category": "Flat",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Tressed_Stitch_Diagram_blogpost_tutorial_Tressed_Stitch.jpg"
+  },
+  {
+    "id": "corduroy_stitch",
+    "name": "Corduroy Stitch",
+    "video": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Corduroy_2.jpg",
+    "category": "Diagonal",
+    "imageUrl": "https://icon-library.com/images/missing-image-icon/missing-image-icon-4.jpg"
+  },
+  {
+    "id": "sample",
+    "name": "Sample Name",
+    "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
+    "category": "Sample",
+    "imageUrl": "https://icon-library.com/images/missing-image-icon/missing-image-icon-4.jpg"
+  },
+  {
+    "id": "sample",
+    "name": "Sample Name",
+    "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
+    "category": "Sample",
+    "imageUrl": "https://icon-library.com/images/missing-image-icon/missing-image-icon-4.jpg"
+  },
+  {
+    "id": "sample",
+    "name": "Sample Name",
+    "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
+    "category": "Sample",
+    "imageUrl": "https://icon-library.com/images/missing-image-icon/missing-image-icon-4.jpg"
+  },
+  {
     "id": "sample",
     "name": "Sample Name",
     "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
