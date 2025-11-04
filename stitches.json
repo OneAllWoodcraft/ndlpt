@@ -3,91 +3,91 @@
     "id": "longstitch",
     "name": "Longstitch",
     "video": "https://www.youtube.com/watch?v=YQKmqN4ideU",
-    "categories": ["Diagonal"],
+    "categories": ["Diagonal", "Flat", "Parallel", "Straight"],
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Longstitch_58404415-42ba-4d71-99f4-f7f5f4f5cf42_480x480.png"
   },
   {
     "id": "tent_stitch",
     "name": "Tent Stitch",
     "video": "https://www.youtube.com/watch?v=ymD6LNXnN6o",
-    "categories": ["Knitting"],
+    "categories": ["Flat", "Parallel", "Diagonal"],
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Basketwave_stitch_480x480.png"
   },
   {
     "id": "woven_pattern",
     "name": "Woven Pattern",
     "video": "https://www.youtube.com/watch?v=_uRe3dc67SU",
-    "categories": ["Pattern"],
+    "categories": ["Pattern", "Knitting", "Straight"],
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/needlepointbooklet_stitches_woven_pattern_480x480.jpg"
   },
   {
     "id": "diagonal_scotch",
     "name": "Diagonal Scotch",
     "video": "https://www.youtube.com/watch?v=J7VfWg0aNRY",
-    "categories": ["Diagonal"],
+    "categories": ["Diagonal", "Parallel", "Flat", "Condensed"],
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/needlepointbooklet_stitches_scotch_2_480x480.jpg"
   },
   {
     "id": "tressed_stitch",
     "name": "Tressed Stitch",
     "video": "https://www.youtube.com/watch?v=e9YQi6thGFs",
-    "categories": ["Flat"],
+    "categories": ["Flat", "Diagonal", "Knitting"],
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Tressed_Stitch_Diagram_blogpost_tutorial_Tressed_Stitch.jpg"
   },
   {
     "id": "corduroy_stitch",
     "name": "Corduroy Stitch",
     "video": "https://www.youtube.com/watch?v=eGY8vmWoLns",
-    "categories": ["Diagonal"],
+    "categories": ["Diagonal", "Flat", "Condensed"],
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Corduroy_2.jpg"
   },
   {
     "id": "brighton_stitch",
     "name": "Brighton Stitch",
     "video": "https://www.unwind.studio/blogs/needlepoint-stitches/brighton-stitch",
-    "categories": ["Parallel"],
+    "categories": ["Parallel", "Flat", "Diagonal"],
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Brighton_480x480.jpg"
   },
   {
     "id": "wicker_stitch",
     "name": "Wicker Stitch",
     "video": "https://www.youtube.com/watch?v=oFudayRrigw",
-    "categories": ["Knitting"],
+    "categories": ["Knitting", "Pattern", "Straight"],
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Wicker_stitch_480x480.png"
   },
   {
     "id": "leaf_stitch",
     "name": "Leaf Stitch",
     "video": "https://www.youtube.com/watch?v=LPavojIbgaU",
-    "categories": ["Pattern"],
+    "categories": ["Pattern", "Flat", "Diagonal"],
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Leaf_480x480.jpg"
   },
   {
     "id": "criss_cross_hungarian",
     "name": "Criss Cross Hungarian",
     "video": "https://www.youtube.com/watch?v=60RqlL6q9H0",
-    "categories": ["Crossed"],
+    "categories": ["Crossed", "Diagonal", "Pattern", "Raised", "Condensed", "Knitting"],
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/needlepointbooklet_stitches_hungarian_criss_cross_480x480.jpg"
   },
   {
     "id": "mosaic_checker",
     "name": "Mosaic Checker",
     "video": "https://www.youtube.com/watch?v=4iIshEdrDBM",
-    "categories": ["Pattern"],
+    "categories": ["Pattern", "Flat", "Diagonal", "Parallel", "Condensed"],
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Mosaic_Checker_1.jpg"
   },
   {
     "id": "chequer_stitch",
     "name": "Chequer Stitch",
     "video": "https://www.unwind.studio/blogs/needlepoint-stitches/chequer-stitch",
-    "categories": ["Pattern"],
+    "categories": ["Pattern", "Parallel", "Flat", "Diagonal", "Condensed"],
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Chequer_480x480.jpg"
   },
   {
     "id": "fern_stitch",
     "name": "Fern Stitch",
     "video": "https://www.unwind.studio/blogs/needlepoint-stitches/fern-stitch",
-    "categories": ["Crossed"],
+    "categories": ["Crossed", "Knitting", "Condensed", "Raised", "Diagonal"],
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Fern_749dd0cc-9d5a-40a2-b3b6-486e76f3f142_480x480.jpg"
   }
 ]
