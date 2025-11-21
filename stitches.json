@@ -89,5 +89,19 @@
     "video": "https://www.unwind.studio/blogs/needlepoint-stitches/fern-stitch",
     "categories": ["Crossed", "Knitting", "Condensed", "Raised", "Diagonal"],
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Fern_749dd0cc-9d5a-40a2-b3b6-486e76f3f142_480x480.jpg"
-  }
+  },
+  {
+    "id": "nobuko_stitch",
+    "name": "Nobuko Stitch",
+    "video": "https://www.youtube.com/watch?v=k6vYTi-ao9c",
+    "categories": ["Flat", "Parallel", "Diagonal"],
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/needlepointbooklet_stitches_nobuko_480x480.jpg"
+  },
+  {
+    "id": "chain_stitch",
+    "name": "Chain Stitch",
+    "video": "https://www.youtube.com/watch?v=jjjkQ6VU2qU",
+    "categories": ["Flat", "Parallel", "Diagonal"],
+    "imageUrl": "https://www.needlepointteacher.com/s/cc_images/teaserbox_4207729186.jpg"
+  },
 ]
