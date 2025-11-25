@@ -1,5 +1,19 @@
 [
   {
+    "id": "brickstitch",
+    "name": "Brick Stitch",
+    "video": "https://www.youtube.com/watch?v=mZ76SYUawpE",
+    "categories": ["Flat", "Parallel", "Straight"],
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Brick_Stitch_480x480.png"
+  },
+  {
+    "id": "diagonal_cashmere",
+    "name": "Diagonal Cashmere Stitch",
+    "video": "https://www.unwind.studio/blogs/needlepoint-stitches/diagonal-cashmere-stitch",
+    "categories": ["Flat", "Parallel", "Diagonal", "Condensed"],
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Cashmere_Diagonal_480x480.jpg"
+  },
+  {
     "id": "longstitch",
     "name": "Longstitch",
     "video": "https://www.youtube.com/watch?v=YQKmqN4ideU",
