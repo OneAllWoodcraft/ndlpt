@@ -14,13 +14,6 @@
     "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Cashmere_Diagonal_480x480.jpg"
   },
   {
-    "id": "longstitch",
-    "name": "Longstitch",
-    "video": "https://www.youtube.com/watch?v=YQKmqN4ideU",
-    "categories": ["Diagonal", "Flat", "Parallel", "Straight"],
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Longstitch_58404415-42ba-4d71-99f4-f7f5f4f5cf42_480x480.png"
-  },
-  {
     "id": "basketweave_stitch",
     "name": "Basketweave Stitch",
     "video": "https://www.youtube.com/watch?v=ymD6LNXnN6o",
@@ -117,5 +110,40 @@
     "video": "https://www.youtube.com/watch?v=jjjkQ6VU2qU",
     "categories": ["Flat", "Parallel", "Diagonal"],
     "imageUrl": "https://www.needlepointteacher.com/s/cc_images/teaserbox_4207729186.jpg"
+  }
+  {
+    "id": "longstitch",
+    "name": "Longstitch",
+    "video": "https://www.youtube.com/watch?v=YQKmqN4ideU",
+    "categories": ["Diagonal", "Flat", "Parallel", "Straight"],
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Longstitch_58404415-42ba-4d71-99f4-f7f5f4f5cf42_480x480.png"
+  },
+  {
+    "id": "oriental_stitch",
+    "name": "Oriental Stitch",
+    "video": "https://www.unwind.studio/blogs/needlepoint-stitches/oriental-stitch",
+    "categories": ["Diagonal", "Flat", "Parallel", "Pattern", "Condensed"],
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Oriental_Stitch_Diagrama_f8bdd476-9826-428b-bdfa-afe8ea4289fa_480x480.png"
+  }
+  {
+    "id": "reversed_cobblestone",
+    "name": "Reversed Cobblestone",
+    "video": "https://www.unwind.studio/blogs/needlepoint-stitches/reversed-cobblestone-stitch",
+    "categories": ["Diagonal", "Flat", "Parallel", "Condensed"],
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Reversed_Cobblestone_480x480.jpg"
+  }
+  {
+    "id": "balloon_stitch",
+    "name": "Balloon Stitch",
+    "video": "https://www.unwind.studio/blogs/needlepoint-stitches/balloon-stitch",
+    "categories": ["Straight", "Flat", "Parallel", "Condensed"],
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/Balloon_480x480.jpg"
+  }
+  {
+    "id": "hourglass_cross",
+    "name": "Hourglass Cross Stitch",
+    "video": "https://www.unwind.studio/blogs/needlepoint-stitches/hourglass-cross-stitch",
+    "categories": ["Pattern", "Raised", "Crossed"],
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0270/2547/3618/files/69_Needlepoint_Cross_Stitch_Variations_dc5e2201-1c6b-4c69-a98b-0205f3c86fb1_480x480.jpg"
   }
 ]
